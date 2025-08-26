@@ -21,7 +21,7 @@ function Navbar() {
                     {/* LOGO */}
                     <NavLink to='/' className="flex items-center gap-2 ">
                         <img src={logo} alt="Arzon Market" className="w-24 h-10" />
-                        <span className="text-xl font-bold text-gray-800">Arzon Market</span>
+                        {/* <span className="text-xl font-bold text-gray-800">Arzon Market</span> */}
                     </NavLink>
 
                     {/* DESKTOP-LOGO */}
