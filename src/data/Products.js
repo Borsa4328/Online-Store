@@ -17,4 +17,8 @@ export const products = [
   { id: 5, name: "Молоко", price: "2.50", img: "https://images.unsplash.com/photo-1589987600333-7c18430c9d46?w=800", category: "Молочные продукты" },
   { id: 6, name: "Хлеб", price: "3.00", img: "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=800", category: "Выпечка" },
   { id: 7, name: "Миндаль", price: "6.00", img: "https://images.unsplash.com/photo-1589927986089-35812388d1cf?w=800", category: "Орехи и сухофрукты" },
+  { id: 8, name: "Хлеб", price: "3.00", img: "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=800", category: "Выпечка" },
+  { id: 9, name: "Миндаль", price: "6.00", img: "https://images.unsplash.com/photo-1589927986089-35812388d1cf?w=800", category: "Орехи и сухофрукты" },  { id: 6, name: "Хлеб", price: "3.00", img: "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=800", category: "Выпечка" },
+  { id: 10, name: "Миндаль", price: "6.00", img: "https://images.unsplash.com/photo-1589927986089-35812388d1cf?w=800", category: "Орехи и сухофрукты" },  { id: 6, name: "Хлеб", price: "3.00", img: "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=800", category: "Выпечка" },
+  { id: 11, name: "Миндаль", price: "6.00", img: "https://images.unsplash.com/photo-1589927986089-35812388d1cf?w=800", category: "Орехи и сухофрукты" },
 ];
